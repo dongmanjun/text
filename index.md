@@ -1,36 +1,6 @@
 # Welcome to GitHub Pages
 
 
----
-# Site settings 配置站点
-title: '动漫君'
-description: '一个动漫君的网页'
-keywords: 'your web keywords, another keywords'
-url: 'https://dongmanjun.github.io/text' # your host
----
-
-
-layout: post
-title:  "post title"
-subtitle: 'post subtitle'
-date:   2018-05-29 08:44:13
-tags: html js css
-description: ''
-color: 'rgb(154,133,255)'
-cover: ''
-
-
-# 博主
-author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
-about: true
-aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
-
-
 # SNS
 SNS: true
 SNS-icon: #['mail', 'weixin', 'QQ', 'weibo', 'instagram', 'twitter', 'github', 'Dribbble' 'facebook', 'Google', 'zhihu', 'juejin', 'twitch']
